@@ -260,13 +260,13 @@ function mainMenu() {
             newDepartment();
             break;
           case "Create Role":
-            newRole();
+            addRole();
             break;
           case "Hire Employee":
-            newEmployee();
+            addEmployee();
             break;
           default:
-            modifyEmployeeRole();
+            updateRole();
         }
       });
 }
