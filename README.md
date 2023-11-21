@@ -20,7 +20,7 @@ No installation is required.
 n/.a
 
 ## Contributing 
-n/acler
+n/a
 
 
 
@@ -33,7 +33,7 @@ None
 
 
 ## Video  &  Links
-[View Demo](https://www.youtube.com/watch?v=)
+[View Demo](https://drive.google.com/file/d/17FBD5XBMAvOJZ522Wm6xXv9-fdUybDLr/view?usp=drive_link)
 
 
 ## Questions 
