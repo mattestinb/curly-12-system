@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01fe7583-c3d0-413a-9ea2-fd0bd3f39349" name="Changes" comment="commit and push local files to repo">
+    <list default="true" id="01fe7583-c3d0-413a-9ea2-fd0bd3f39349" name="Changes" comment="added demo link to readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/matte/Desktop/uncc/zsubmit-repos/curly-12-system",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matte/Desktop/uncc/zsubmit-repos/curly-12-system&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\matte\Desktop\uncc\zsubmit-repos\curly-12-system" />
@@ -60,7 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1700313252031</updated>
       <workItem from="1700313253214" duration="2502000" />
-      <workItem from="1700607457489" duration="756000" />
+      <workItem from="1700607457489" duration="2436000" />
+      <workItem from="1700858758458" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="commit and push local files to repo">
       <option name="closed" value="true" />
@@ -70,7 +69,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700323367968</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updates to functions">
+      <option name="closed" value="true" />
+      <created>1700608346890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700608346890</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added demo link to readme">
+      <option name="closed" value="true" />
+      <created>1700608459708</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700608459708</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit and push local files to repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit and push local files to repo" />
+    <MESSAGE value="updates to functions" />
+    <MESSAGE value="added demo link to readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="added demo link to readme" />
   </component>
 </project>
